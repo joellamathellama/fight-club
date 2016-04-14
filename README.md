@@ -1,28 +1,9 @@
-# Node Catapult - Angular
+## Slandr
+Fill out the questionaire, find someone online who disagrees, and then tell them why they're wrong!
+Slandr is an application for users to debate with others users on modern controversial topics.
 
-A boilerplate starter project that includes Node, Express, and Angular:
-
-* Lightweight - Comprehend everything.
-* Logical - Firm basics for development and production.
-* Swift - Get started immediately.
-
-## Getting Started
-
-```
-$ git clone https://github.com/dYale/node-catapult-angular my-project
-$ cd my-project
+# Start up
 $ npm install
 $ bower install
 $ npm start
-```
-
-Now visit [localhost:4000](http://localhost:4000/)
-
-### Running the Tests
-
-There is a basic test framework in your `test/` folder. To run the tests, simply run `npm test`.
-
-## Credits
-Inspired by the original Node-Catapult developed by mindeavor found at: https://github.com/mindeavor/node-catapult
-
-# fight-club
+Now visit http://localhost:4000
