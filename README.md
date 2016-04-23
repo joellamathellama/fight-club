@@ -3,7 +3,9 @@ Fill out the questionaire, find someone online who disagrees, and then tell them
 <br/>
 Slandr is an application for users to debate with others users on modern controversial topics.
 
-## Start up
+##### Status: Undeployed
+
+## Start up Local Dev
 $ npm install
 <br/>
 $ bower install
